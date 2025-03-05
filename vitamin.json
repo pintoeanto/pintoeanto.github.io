@@ -1,6 +1,10 @@
 {
   "P1": "#1QbU@w^GvEs*&#JNauYU$h@nBXTTWns",
-  "IPArray": [
-    { "Name": "WEBDB", "IP": "10.142.174.250" }
-  ]
+  "IPArray": [{ "Name": "WEBDB", "IP": "10.142.174.250" }],
+  "Creds": {
+    "System": "BAS",
+    "Url": "https://bcc.cts.com/login",
+    "Uid": "CUP",
+    "Ukey": "Sbcc@123456"
+  }
 }
