@@ -1,16 +1,23 @@
 {
   "P1": "P7zCPgzXegu2h3hk5383RUVx*",
-  "IPArray": [{ "Name": "WEBDB", "IP": "10.142.174.250" }],
-  "BMSCreds": [{
-    "System": "BAS",
-    "Url": "https://bcc.cts.com/login",
-    "Uid": "CUP",
-    "Ukey": "Sbcc@123456"
-  },
-  {
-    "System": "JACE",
-    "Url": "10.242.23.10",
-    "Uid": "JCI",
-    "Ukey": "Gcet@20242025"
-  }]
+  "IPArray": [
+    {
+      "Name": "WEBDB",
+      "IP": "10.142.174.250"
+    }
+  ],
+  "BMSCreds": [
+    {
+      "System": "BAS",
+      "Url": "https://bcc.cts.com/login",
+      "Uid": "CUP",
+      "Ukey": "Sbcc@123456"
+    },
+    {
+      "System": "JACE",
+      "Url": "10.242.23.10",
+      "Uid": "JCI",
+      "Ukey": "Gcet@20242025"
+    }
+  ]
 }
